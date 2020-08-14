@@ -1,0 +1,49 @@
+#nav-list h4{
+	text-align: center;
+	font-size: bold;
+	padding-top: 20px;
+	
+}
+hr.visible-xs{
+	background: black;
+	height: 1.5px; 
+}
+
+p{
+	padding: 15px;
+}
+div.navbar-header{
+	height: 90px;
+}
+section.chicken{
+	background-color:#F0F8FF; 
+	height: 1200px;
+	margin-top: 15px;
+}
+*{
+	box-sizing: border-box;
+}
+.navbar-collapse{
+	margin-top: 30px;
+	border-top: 100%;
+}
+/*
+dropdown menu background color
+*/
+#collapsable-nav{
+	background-color: #F0F8FF;
+}
+
+
+ h3 {
+	padding-top: 15px;
+}
+.chicken>h3{
+	text-align: center;
+}
+
+#main-content{
+	margin-bottom:40px;
+	overflow: hidden;
+	
+}
